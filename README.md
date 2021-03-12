@@ -1,3 +1,4 @@
+
 # Solidity_homework
 
 I have completed the associate Profit Splitter and the Tiered profit splitter 
@@ -11,3 +12,6 @@ The Tiered Profit splitter  works In a similar way only this time when we divide
 
 
 instead of snapshots i have inlcluded the code itslef in the folder Solidity_folder 
+
+also here you can see the place where the addresses are required for the employees
+![Screenshot (29)](https://user-images.githubusercontent.com/69990029/110889087-78ac8700-82bb-11eb-910e-3512a2a7b230.png)
